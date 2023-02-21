@@ -1,0 +1,1 @@
+envPublicUrl || require(appPackageJson).homepage;
